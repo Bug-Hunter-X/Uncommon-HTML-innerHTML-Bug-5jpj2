@@ -1,0 +1,3 @@
+# Uncommon HTML Bug: Unexpected innerHTML Behavior
+
+This repository demonstrates a subtle bug related to using `innerHTML` in JavaScript to modify the content of an HTML element. The bug involves appending new content to the existing content using innerHTML which can lead to unexpected results when attempting to add to the existing HTML rather than replace it.  The solution provides a safer alternative for manipulating HTML content.
